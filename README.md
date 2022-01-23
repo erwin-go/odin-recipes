@@ -1,0 +1,1 @@
+Odin Recipes is a website for exercising my HTML skills while learning web development on The Odin Project.
